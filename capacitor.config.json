@@ -1,0 +1,9 @@
+{
+  "appId": "com.critique.focusvault",
+  "appName": "Enhance",
+  "webDir": "dist",
+  "server": {
+    "url": "https://ais-pre-2srj5zor2g5oisxnwwgd2s-826589182273.asia-northeast1.run.app",
+    "cleartext": false
+  }
+}
